@@ -90,7 +90,7 @@ Dedicated and motivated Computer Systems and Network Engineering Student with a 
   [▶️ Watch My Mock Interview Video](YOUR_LINK_HERE)
 -->
 
-[▶️ Watch My Mock Interview Video](YOUR_VIDEO_LINK_HERE)
+[▶️ Watch My Mock Interview Video]((https://drive.google.com/file/d/1KClIpUX9IJrthP47jYBVw7T9eCLS0fsR/view?usp=sharing))
 
 ### 📋 Interview Questions Covered
 
